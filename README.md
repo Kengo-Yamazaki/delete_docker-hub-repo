@@ -27,13 +27,13 @@ cd delete_docker-hub-repo
 ### 1. curl : API呼び出し用
 ### 2. jq : JSONパース用（タグ一覧取得に利用）
 
-###Devian系の場合
+### Devian系の場合
 ```bash
 sudo apt update
 sudo apt install -y curl jq
 ```
 
-###Redhat系の場合
+### Redhat系の場合
 ```bash
 sudo dnf update
 sudo dnf install -y curl jq
