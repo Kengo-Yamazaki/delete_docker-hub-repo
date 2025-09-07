@@ -12,5 +12,4 @@ Docker Hub のリポジトリを **リポジトリ単位** または **タグ単
 ### 1. クローン
 ```bash
 git clone https://github.com/Kengo-Yamazaki/delete_docker-hub_repo.git
-cd delete_docker-hub_repo
 
