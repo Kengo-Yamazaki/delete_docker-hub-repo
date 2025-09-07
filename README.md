@@ -13,3 +13,10 @@ Docker Hub のリポジトリを **リポジトリ単位** または **タグ単
 ```bash
 git clone https://github.com/Kengo-Yamazaki/delete_docker-hub-repo.git
 
+### 2. ディレクトリに移動
+```bash
+cd delete_docker-hub-repo/
+
+### 3. 実行
+```bash
+./delete_docker-hub_repo.sh
